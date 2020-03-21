@@ -1,6 +1,7 @@
 #!/usr/bin/python
 # License: GPL3
 # Copyright 2020 Joel Schneider
+# Pandemic "simulator". DOES NOT predict real pandemics!
 
 import datetime, random, sys, copy
 global POPULATION, CITY_COUNT, RURAL_COUNT, age_risk #, total_infections, total_deaths

@@ -6,7 +6,7 @@ Output in CSV format, for ease of import and graphing
 
 __Caveats__
 
-* Does not predict what will happen COVID-19...
+* Does not predict what will happen with any real pandemic, including COVID-19...
 * DO NOT make decisions based on this tool!
 * Usage parameters likely to change.
 
@@ -20,7 +20,7 @@ for example, for 1 year, 1 simulation run:
 	generic_pandemic.py 0.5 1 365 > data.csv
 	generic_pandemic.py 5 1 365 > data.csv
 	
-for example, for 10 years, 1 simulation run:
+for example, for 10 year, 1 simulation run:
 
 	generic_pandemic.py 0.5 1 3650 > data.csv
 	generic_pandemic.py 5 1 3650 > data.csv
