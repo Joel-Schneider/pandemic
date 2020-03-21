@@ -20,7 +20,8 @@ for example, for 1 year, 1 simulation run:
 	generic_pandemic.py 0.5 1 365 > data.csv
 	generic_pandemic.py 5 1 365 > data.csv
 	
-for example, for 1 year, 1 simulation run:
+for example, for 10 years, 1 simulation run:
+
 	generic_pandemic.py 0.5 1 3650 > data.csv
 	generic_pandemic.py 5 1 3650 > data.csv
 
